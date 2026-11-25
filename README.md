@@ -1,13 +1,13 @@
 # Portfolio-alpha
 
-A simple static portfolio website built with plain HTML and CSS and deployed to GitHub Pages using GitHub Actions.
+A  placeholder static portfolio website built with plain HTML and CSS and deployed to GitHub Pages using GitHub Actions.
 
 ## Files
 
 - `index.html` — Page structure and content (About, Experience, Projects, Contact)
 - `styles.css` — Classic, lightweight styling with no frameworks or JavaScript
 - `.github/workflows/deploy.yml` — Automatically deploys the site to GitHub Pages on every push to `main`
-- `.nojekyll` — Tells GitHub Pages to serve the static files as-is
+- `.nojekyll` — Tells GitHub Pages to serve the static files as it is
 
 ## Preview Locally
 
